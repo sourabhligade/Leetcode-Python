@@ -2,10 +2,7 @@
  A word is a maximal substringconsisting of non-space characters only.
 
 
-
-
-
-class Solution:
+  class Solution:
     def lengthOfLastWord(self,s: str) -> int:
         return len(s.split()[-1])
     
