@@ -1,3 +1,4 @@
+#d
 class Solution:
     @staticmethod
     def isValid(s):
